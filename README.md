@@ -1,12 +1,12 @@
 ![Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQEwM0w-2ibA1w/profile-displaybackgroundimage-shrink_350_1400/0/1654675751865?e=1663200000&v=beta&t=DyFCMX7CQniOcmDHUBX-SBK2n7rLeWDLG8lUyAkZAqE)
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
-<h3 align="center">A passionate MERN developer</h3>
+<h3 align="center">A passionate MERN-Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarfaruk05&label=Profile%20views&color=0e75b6&style=flat" alt="omarfaruk05" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk05" alt="omarfaruk05" /></a> </p>
 
-- 🌱 I’m currently learning **Redux, NextJS**
+- 🌱 I’m currently learning **Docker, GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-f97d2.web.app/](https://portfolio-website-f97d2.web.app/)
 
