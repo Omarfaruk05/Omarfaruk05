@@ -1,25 +1,27 @@
-![Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQEwM0w-2ibA1w/profile-displaybackgroundimage-shrink_350_1400/0/1654675751865?e=1663200000&v=beta&t=DyFCMX7CQniOcmDHUBX-SBK2n7rLeWDLG8lUyAkZAqE)
+![Full Stack Web Application Developer]([https://media-exp1.licdn.com/dms/image/C4D16AQEwM0w-2ibA1w/profile-displaybackgroundimage-shrink_350_1400/0/1654675751865?e=1663200000&v=beta&t=DyFCMX7CQniOcmDHUBX-SBK2n7rLeWDLG8lUyAkZAqE](https://media.licdn.com/dms/image/D4D16AQEqrCGTjuKKlA/profile-displaybackgroundimage-shrink_350_1400/0/1699889609664?e=1714608000&v=beta&t=w0Dqbx02VI2KA8HJTPEibPpNy9Dsi3aKQWKWK9RNwwI))
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
-<h3 align="center">A passionate MERN-Stack developer</h3>
+<h3 align="center">A Passionate Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarfaruk05&label=Profile%20views&color=0e75b6&style=flat" alt="omarfaruk05" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk05" alt="omarfaruk05" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, GraphQL**
+- 🌱 I’m currently learning **React Native, GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-f97d2.web.app/](https://portfolio-website-f97d2.web.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-2-chi-kohl.vercel.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React JS, Next JS**
 
 - 📫 How to reach me **mdomrafaruk149518@gmail.com**
+https://www.facebook.com/profile.php?id=100023919873768
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mdomarfaruk005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdomarfaruk005" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md. omar faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. omar faruk" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/md omar faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md omar faruk" height="30" width="40" /></a>
-<a href="https://fb.com/md. omar faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. omar faruk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-omar-faruk05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. omar faruk" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18441867/md-omar-faruk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md omar faruk" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100023919873768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md. omar faruk" height="30" width="40" /></a>
 <a href="https://instagram.com/omarfaruk0005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omarfaruk0005" height="30" width="40" /></a>
 </p>
 
