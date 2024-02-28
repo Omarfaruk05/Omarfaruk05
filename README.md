@@ -1,4 +1,4 @@
-![Full Stack Web Application Developer]([https://media-exp1.licdn.com/dms/image/C4D16AQEwM0w-2ibA1w/profile-displaybackgroundimage-shrink_350_1400/0/1654675751865?e=1663200000&v=beta&t=DyFCMX7CQniOcmDHUBX-SBK2n7rLeWDLG8lUyAkZAqE](https://media.licdn.com/dms/image/D4D16AQEqrCGTjuKKlA/profile-displaybackgroundimage-shrink_350_1400/0/1699889609664?e=1714608000&v=beta&t=w0Dqbx02VI2KA8HJTPEibPpNy9Dsi3aKQWKWK9RNwwI))
+![Full Stack Web Application Developer]([https://media-exp1.licdn.com/dms/image/C4D16AQEwM0w-2ibA1w/profile-displaybackgroundimage-shrink_350_1400/0/1654675751865?e=1663200000&v=beta&t=DyFCMX7CQniOcmDHUBX-SBK2n7rLeWDLG8lUyAkZAqE](https://media.licdn.com/dms/image/D4D16AQEqrCGTjuKKlA/profile-displaybackgroundimage-shrink_350_1400/0/1699889609664?e=1714608000&v=beta&t=w0Dqbx02VI2KA8HJTPEibPpNy9Dsi3aKQWKWK9RNwwI])
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
@@ -13,9 +13,7 @@
 - 💬 Ask me about **React JS, Next JS**
 
 - 📫 How to reach me **mdomrafaruk149518@gmail.com**
-https://www.facebook.com/profile.php?id=100023919873768
-
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mdomarfaruk005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdomarfaruk005" height="30" width="40" /></a>
