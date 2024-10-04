@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk05" alt="omarfaruk05" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, GraphQL**
+- 🌱 I’m currently learning **Nest JS, Python**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-2-chi-kohl.vercel.app/)
 
