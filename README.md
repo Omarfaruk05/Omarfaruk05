@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQEqrCGTjuKKlA/profile-displaybackgroundimage-shrink_350_1400/0/1699889609664?e=1716422400&v=beta&t=33V5DEcaUqUR-rwCpu17lNiZIzyJGcAlL3d82oFNcZM)
+![MasterHead](https://i.ibb.co.com/xmmvprx/1699889609664.jpg)
 <h1 align="center">Hi 👋, I'm Omar Faruk</h1>
 <h3 align="center">A Passionate Full-Stack Developer</h3>
 
