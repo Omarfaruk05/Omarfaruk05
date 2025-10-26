@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarfaruk05" alt="omarfaruk05" /></a> </p>
 
-- 🌱 I’m currently learning **Nest JS, Python**
+- 🌱 I’m currently learning **Blockchain, Cryptocurrency**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-2-chi-kohl.vercel.app/)
 
-- 💬 Ask me about **React JS, Next JS**
+- 💬 Ask me about **React JS, Next JS, Nest JS**
 
 - 📫 How to reach me **mdomrafaruk149518@gmail.com**
 - 
